@@ -1,6 +1,6 @@
 # CSE455 Final Project: Plant Seedlings Classification
 
-### Sunny Zheng, Yanfeng Cui, Melody Zhang
+Group Member: Sunny Zheng, Yanfeng Cui, Melody Zhang
  
 ## What problem are you trying to solve?
 Sometimes it is difficult to distinguish different plants from seeding. We plan to use computer vision and machine learning to effectively differentiate plants with different growth stages to help yield a better environment. Our goal is to create a classifier capable of determining a plant’s species from a photo.
